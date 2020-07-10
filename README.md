@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+ <img 
+      width="50%" 
+      src="https://user-images.githubusercontent.com/2728804/87165860-1836f700-c2a1-11ea-9b33-8b3f455db9b9.gif" />
+</p>
 
-<!--
-**camilamaia/camilamaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Camila 👋
 
-Here are some ideas to get you started:
+💻 Backend Engineer at [@loadsmart](https://github.com/loadsmart/)
+<p>
+  <img
+    src="https://github.com/scanapi/design/raw/master/images/icon-dark.png"
+    width="20px"
+    margin="auto"
+  > Creator of <a href="https://github.com/scanapi/scanapi">ScanAPI</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me around the web 🌎
+
+🐦 https://twitter.com/cmaiacd
+
+🚀 https://cmaiacd.com/
