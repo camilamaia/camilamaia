@@ -17,6 +17,6 @@
 
 ### Find me around the web 🌎
 
-🐦 https://twitter.com/cmaiacd
+🐦 [@cmaiacd](https://twitter.com/cmaiacd)
 
-🚀 https://cmaiacd.com/
+🚀 [cmaiacd.com](https://cmaiacd.com/)
