@@ -6,10 +6,10 @@
 
 ### Hi there, I'm Camila 👋
 
-💻 Backend Engineer at [@loadsmart](https://github.com/loadsmart/)
+💻 Backend Engineer
 <p>
   <img
-    src="https://github.com/scanapi/design/raw/master/images/icon-dark.png"
+    src="https://github.com/scanapi/design/raw/main/images/icon-dark.png"
     width="20px"
     margin="auto"
   > Creator of <a href="https://github.com/scanapi/scanapi">ScanAPI</a>
