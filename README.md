@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Camila 👋
 
-💻 Backend Engineer
+💻 Backend Engineer [@SoundCloud](https://github.com/soundcloud)
 <p>
   <img
     src="https://github.com/scanapi/design/raw/main/images/icon-dark.png"
