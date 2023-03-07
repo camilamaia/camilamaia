@@ -19,4 +19,4 @@
 
 🐦 [@cmaiacd](https://twitter.com/cmaiacd)
 
-🚀 [cmaiacd.com](https://cmaiacd.com/)
+🚀 [camilamaia.com](https://camilamaia.com/)
