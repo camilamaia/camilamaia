@@ -41,7 +41,6 @@ both national and international scenarios. They are all listed on my personal we
 
 - [camilamaia/factory-boy-best-practices][factory-boy-best-practices]: Best practices for the testing library [factory_boy][factory-boy]
 - [camilamaia/acelera-dev-loadsmart-women][acelera-dev]: Course for the AceleraDev Loadsmart Women Edition Program. Python + Django
-
 - [camilamaia/scanapi-tutorial][scanapi-tutorial]: My source code for the official [ScanAPI tutorial][scanapi-tutorial-website]
 
 ### ![people-roof-icon][] Conference Websites
