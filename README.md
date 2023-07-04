@@ -6,12 +6,12 @@
 
 ### Hi there, I'm Camila 👋
 
-I am a Backend Engineer currently working at [@SoundCloud](https://github.com/soundcloud)
+> I am a Backend Engineer currently working at [@SoundCloud](https://github.com/soundcloud)
 ![SoundCloud-icon][]
-
-I love to work optimizing Developer Experience, crafting new DevTools, automating workflows, and architecting robust systems. I am truly passionate about sharing knowledge and connecting with people.
-
-People > Tech 💜
+> 
+> I love to work optimizing Developer Experience, crafting new DevTools, automating workflows, and architecting robust systems. I am truly passionate about sharing knowledge and connecting with people.
+> 
+> People > Tech 💜
 
 ### ![globe-icon][] Find me around the web
 
@@ -44,7 +44,7 @@ both national and international scenarios. They are all listed on my personal we
 
 - [camilamaia/scanapi-tutorial][scanapi-tutorial]: My source code for the official [ScanAPI tutorial][scanapi-tutorial-website]
 
-### ![people-roof-icon][] Conferences
+### ![people-roof-icon][] Conference Websites
 
 - [pyjamasconf/pyjamas.live][pyjamas.live]: Pyjamas Conf website [pyjamas.live][pyjamas.live-website] (2019 and 2020 editions)
 - [pythonbrasil/pybr2020-site][pybr2020]: Site da Python Brasil 2020 [2020.pythonbrasil.org.br][pybr2020-website]
@@ -73,7 +73,7 @@ Started Guide section 8.3
 [linkedin-icon]: /images/linkedin.svg "LinkedIn"
 [mastodon-icon]: /images/mastodon.svg "Mastodon"
 [people-group-icon]: /images/people-group.svg "Community"
-[people-roof-icon]: /images/people-roof.svg "Conferences"
+[people-roof-icon]: /images/people-roof.svg "Conference Websites"
 [person-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/person-16.svg "Core Developer"
 [pr-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/git-pull-request-16.svg "Pull Requests"
 [soundcloud-icon]: /images/soundcloud.svg "SoundCloud"
