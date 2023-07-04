@@ -29,7 +29,7 @@ both national and international scenarios. They are all listed on my personal we
 ### ![toolbox-icon][] Libraries and Frameworks
 
 - [scanapi/scanapi][scanapi]: Automated Integration Testing and Live Documentation for your API
-- [brutils/brutils-python][brutils]: Utils library for specific Brazilian businesses 🇧🇷
+- [brazilian-utils/brutils-python][brutils]: Utils library for specific Brazilian businesses 🇧🇷
 - [camilamaia/testing-bot-client-api][testingbot-client-api]: Client gem to easily interact with [TestingBot][testingbot] API
 
 ### ![browser-icon][] Static Websites
