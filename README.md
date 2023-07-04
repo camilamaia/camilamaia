@@ -8,14 +8,15 @@
 
 > I am a Backend Engineer currently working at [@SoundCloud](https://github.com/soundcloud)
 ![SoundCloud-icon][]
-> 
+>
 > I love to work optimizing Developer Experience, crafting new DevTools, automating workflows, and architecting robust systems. I am truly passionate about sharing knowledge and connecting with people.
-> 
+>
 > People > Tech 💜
 
 ### ![globe-icon][] Find me around the web
 
 * ![browser-icon][] [camilamaia.com][camilamaia.com-website]
+* ![speakerdeck-icon][] [camilamaia][speakerdeck]
 * ![twitter-icon][] [@cmaiacd][twitter]
 * ![linkedin-icon][] [cmaiacd][linkedin]
 * ![mastodon-icon][] [@cmaiacd@mastodon.social][mastodon]
@@ -76,6 +77,7 @@ Started Guide section 8.3
 [person-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/person-16.svg "Core Developer"
 [pr-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/git-pull-request-16.svg "Pull Requests"
 [soundcloud-icon]: /images/soundcloud.svg "SoundCloud"
+[speakerdeck-icon]: /images/speakerdeck.svg "Speaker Deck"
 [toolbox-icon]: /images/toolbox.svg "Libraries and Frameworks"
 [twitter-icon]: /images/twitter.svg "Twitter"
 [workflow-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/workflow-16.svg "GitHub Actions"
@@ -106,6 +108,7 @@ Started Guide section 8.3
 [scanapi-website-repo]: https://github.com/scanapi/website
 [scanapi-website]: https://scanapi.dev
 [scanapi]: https://github.com/scanapi/scanapi/
+[speakerdeck]: http://speakerdeck.com/camilamaia
 [testingbot-client-api]: https://github.com/camilamaia/testing-bot-client-api
 [testingbot]: https://testingbot.com/
 [twitter]: https://twitter.com/cmaiacd
