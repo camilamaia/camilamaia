@@ -74,13 +74,12 @@ Started Guide section 8.3
 [mastodon-icon]: /images/mastodon.svg "Mastodon"
 [people-group-icon]: /images/people-group.svg "Community"
 [people-roof-icon]: /images/people-roof.svg "Conference Websites"
-[person-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/person-16.svg "Core Developer"
-[pr-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/git-pull-request-16.svg "Pull Requests"
+[pr-icon]: /images/git-pull-request.svg "Pull Requests"
 [soundcloud-icon]: /images/soundcloud.svg "SoundCloud"
 [speakerdeck-icon]: /images/speakerdeck.svg "Speaker Deck"
 [toolbox-icon]: /images/toolbox.svg "Libraries and Frameworks"
 [twitter-icon]: /images/twitter.svg "Twitter"
-[workflow-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/workflow-16.svg "GitHub Actions"
+[workflow-icon]: /images/workflow.svg "GitHub Actions"
 
 [acelera-dev]: https://github.com/camilamaia/acelera-dev-loadsmart-women
 [appearances]: https://camilamaia.com/appearances
