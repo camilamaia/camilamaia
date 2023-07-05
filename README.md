@@ -66,7 +66,7 @@ Started Guide section 8.3
 - [JRubics/poetry-publish#3][JRubics/poetry-publish#3]: Fix authentication when using repository parameters
 
 
-[browser-icon]: https://raw.githubusercontent.com/primer/octicons/v19.4.0/icons/browser-16.svg "Browser Icon"
+[browser-icon]: /images/browser.svg "Browser Icon"
 [chalkboard-user-icon]: /images/chalkboard-user.svg "Sharing Knowledge"
 [cubes-icon]: /images/cubes.svg "Extensions"
 [globe-icon]: /images/globe.svg "Find me around the web"
