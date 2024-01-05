@@ -6,8 +6,7 @@
 
 ### Hi there, I'm Camila 👋
 
-> I am a Backend Engineer currently working at [@SoundCloud](https://github.com/soundcloud)
-![SoundCloud-icon][]
+> I am a Backend Engineer currently working at [Trade Republic](https://github.com/traderepublic)
 >
 > I love to work optimizing Developer Experience, crafting new DevTools, automating workflows, and architecting robust systems. I am truly passionate about sharing knowledge and connecting with people.
 >
