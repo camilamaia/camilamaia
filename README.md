@@ -6,12 +6,14 @@
 
 ### Hi there, I'm Camila 👋
 
-> I’m a Backend Engineer focused on Developer Experience and one of the creators behind
-> [Cumbuca Dev][cumbuca.dev] — a community-driven initiative that empowers underrepresented groups through open source, career programs, and technical consulting. Through this work, we aim to actively promote and strengthen the open source ecosystem in Brazil.
+I’m a Backend Engineer focused on Developer Experience and one of the creators behind
+[Cumbuca Dev][cumbuca.dev] — a community-driven initiative that empowers underrepresented groups
+through open source, career programs, and technical consulting. Through this work, we aim to
+actively promote and strengthen the open source ecosystem in Brazil.
 
-> I'm passionate about sharing knowledge and creating spaces where more people can thrive in tech.
+I'm passionate about sharing knowledge and creating spaces where more people can thrive in tech.
 
-> People > Tech 💜
+People > Tech 💜
 
 ### ![globe-icon][] Find me around the web
 
