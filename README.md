@@ -71,6 +71,7 @@ both national and international scenarios. They are all listed on my personal we
 * [rails/rails#43276][rails/rails#43276]: Add missing migrate command to Getting
 Started Guide section 8.3
 * [backstage/backstage#12528]: Add tests to GoCD Select component
+* [veecode-platform/docs#3]: Standardize and Revamp Local DevPortal Setup Documentation
 * [JRubics/poetry-publish#3][JRubics/poetry-publish#3]: Fix authentication when using repository parameters
 
 [browser-icon]: /images/browser.svg "Browser Icon"
@@ -123,3 +124,4 @@ Started Guide section 8.3
 [testingbot-client-api]: https://github.com/camilamaia/testing-bot-client-api
 [testingbot]: https://testingbot.com/
 [twitter]: https://twitter.com/cmaiacd
+[veecode-platform/docs#3]: https://github.com/veecode-platform/docs/pull/3
