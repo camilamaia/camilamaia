@@ -31,7 +31,7 @@ both national and international scenarios. They are all listed on my personal we
 ### ![toolbox-icon][] Libraries and Frameworks
 
 * [scanapi/scanapi][scanapi]: Automated Integration Testing and Live Documentation for your API
-* [brazilian-utils/brutils-python][brutils]: Utils library for specific Brazilian businesses 🇧🇷
+* [brazilian-utils/python][brutils]: Utils library for specific Brazilian businesses 🇧🇷
 * [camilamaia/testing-bot-client-api][testingbot-client-api]: Client gem to easily interact with [TestingBot][testingbot] API
 
 ### ![screwdriver-wrench-icon][] Learning Tools
@@ -93,7 +93,7 @@ Started Guide section 8.3
 [actionando]: https://github.com/cumbucadev/actionando
 [appearances]: https://camilamaia.com/appearances
 [backstage/backstage#12528]: https://github.com/backstage/backstage/pull/12528
-[brutils]: https://github.com/brazilian-utils/brutils-python
+[brutils]: https://github.com/brazilian-utils/python
 [camilamaia.com-website]: https://camilamaia.com
 [camilamaia.com]: https://github.com/camilamaia/camilamaia.com
 [cumbuca.dev]: https://cumbuca.dev
