@@ -76,6 +76,8 @@ Started Guide section 8.3
 
 ---
 
+### Badges
+
 [![An image of @camilamaia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/camilamaia)](https://holopin.io/@camilamaia)
 
 [browser-icon]: /images/browser.svg "Browser Icon"
