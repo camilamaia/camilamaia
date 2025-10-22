@@ -74,6 +74,10 @@ Started Guide section 8.3
 * [veecode-platform/docs#3]: Standardize and Revamp Local DevPortal Setup Documentation
 * [JRubics/poetry-publish#3][JRubics/poetry-publish#3]: Fix authentication when using repository parameters
 
+---
+
+[![An image of @camilamaia's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/camilamaia)](https://holopin.io/@camilamaia)
+
 [browser-icon]: /images/browser.svg "Browser Icon"
 [chalkboard-user-icon]: /images/chalkboard-user.svg "Sharing Knowledge"
 [cubes-icon]: /images/cubes.svg "Extensions"
